@@ -1,0 +1,29 @@
+2020-02-24 00:30:02.426251 2020-02-27 00:30:02.426251
+['a051U00000uYOjWQAW', 'a051U00001Uc6zQQAR', 'a051U00001Udu8kQAB', 'a051U00001Ud31BQAR', 'a051U00001Ud1YpQAJ']
+*************
+unitRuID:  2360649
+case1: 
+['a051U00001Uc6zVQAR']
+*************
+unitRuID:  2426037
+case1: 
+['a051U00000uYG2MQAW']
+*************
+unitRuID:  2602269
+case1: 
+['a051U00001Udu5DQAR']
+*************
+unitRuID:  2597799
+case1: 
+[]
+case1 passed
+case2: 
+['a051U00001Ud4VBQAZ', 'a051U00001UftjsQAB']
+*************
+unitRuID:  2596269
+case1: 
+[]
+case1 passed
+case2: 
+['a051U00001UdwsuQAB']
+email has been sent

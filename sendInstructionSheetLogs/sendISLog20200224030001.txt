@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/home/moe/Desktop/airbnbSfSync/sendInstructionSheet.py", line 1, in <module>
+    from classes import sendInstructionSheetProgram
+  File "/home/moe/Desktop/airbnbSfSync/classes/__init__.py", line 35, in <module>
+    from .wufooSfSyncProgram import wufooSfSyncProgram
+ImportError: bad magic number in 'classes.wufooSfSyncProgram': b'\x03\xf3\r\n'

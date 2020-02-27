@@ -1,0 +1,340 @@
+couldn't enter username or password due to an error or page is already logged in
+Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="email"]"}
+  (Session info: headless chrome=80.0.3987.87)
+
+file has been downloaded
+/home/moe/Desktop/airbnbSfSync/airbnbDownloads/export.csv
+file has been renamed
+HMWYJ52CT8
+johann-u7cutb4ljdijt917@guest.airbnb.com
+HM3FWJS2RE
+ethan-5228vilcp4hggtyf@guest.airbnb.com
+HMWPRN3958
+anna-xjx8tnvmr2z953nm@guest.airbnb.com
+HMYHWXD5TC
+vanessa-f8d6a64m1nhfyemk@guest.airbnb.com
+HMQDHF3SJZ
+matthew-3xbfryp7ngxksejl@guest.airbnb.com
+HMQM38JMYS
+kensley-zjlqr425z9jelszl@guest.airbnb.com
+HMMDTEFQJT
+kevin-ept9zxfna6sdoug5@guest.airbnb.com
+HM23PBS22T
+fares-agv2kchttq1uxbgq@guest.airbnb.com
+HMBNDSEPTR
+lora-u6jsfct6mfp1lau8@guest.airbnb.com
+HM5PQB5PM3
+zhiwei-ydiss0ddsitv1hz5@guest.airbnb.com
+HMZ5PSAF59
+dohoon-a1ced35g89r66qh4@guest.airbnb.com
+HMXDSFP4S3
+donnie-wj6djflzwekvvchl@guest.airbnb.com
+HM599PSWDF
+nathaniel-xei49wv5p5luza73@guest.airbnb.com
+HMJH2Z3CXE
+reggene-2qpfd3ddg9pj2naa@guest.airbnb.com
+HM83CRTNTE
+sharon-xmibi6smrzcfd4g9@guest.airbnb.com
+HM948PNW83
+heesung-jxtj91q085oulmeg@guest.airbnb.com
+HM5ESQCE3F
+elaine-32235t480cyegih2@guest.airbnb.com
+HMEMBW24AN
+amy-nsu5vawv8nh4nc63@guest.airbnb.com
+HM5KCEQFBX
+hilary-0v2przpl9d0nk125@guest.airbnb.com
+HMNS824SRX
+gisela-ij6m4vl47dn8i9yz@guest.airbnb.com
+HMNTYKJ43S
+joseph-ta269eiwbur46edt@guest.airbnb.com
+HM2FABXMYS
+ella-hmopldp29ld7mvcu@guest.airbnb.com
+HMBHK39PDP
+jennifer-c0wjs351o9z1xclm@guest.airbnb.com
+HMMFXZCC5Z
+christophe-cl7v29tv4cjp85r1@guest.airbnb.com
+HMAN92EMNN
+william-gzu3maxf9pv3fvxg@guest.airbnb.com
+HMAPM4BH3C
+matthew-2yqhc9sy4cge9qie@guest.airbnb.com
+HMEKPREQ5F
+william-n4r0ciqxao6clrow@guest.airbnb.com
+HMCYEPMXEE
+theresa-r7iua1zhijhcc9n0@guest.airbnb.com
+HMABKJ4MBR
+shaun-terkd3z5fcfoz9ig@guest.airbnb.com
+HMMS48WCNH
+lauren-8np9tdlwu3nt9a9x@guest.airbnb.com
+HMTSSHRYBZ
+phong-wcx5u8473y72mpe8@guest.airbnb.com
+HM4H324MQ8
+greg-si8uhvqdbaujbtbv@guest.airbnb.com
+HM345C8XX5
+justin-coyrvfxherowpw57@guest.airbnb.com
+HMAFNKZ5AN
+fran-fdxakumvxn7pxi6w@guest.airbnb.com
+HMTYEPNR9E
+lauren-rnxfr1t6uvzba98z@guest.airbnb.com
+HMD9ZAYRJY
+barbara-e144rktx82pzc61m@guest.airbnb.com
+HMZ3Q2K4HD
+stephanie-1uiaknvj0rm9hpmn@guest.airbnb.com
+HME43KTMF8
+jeremy-bp269xxrdil04u0j@guest.airbnb.com
+HM539QKQJD
+erin-gl7lierloknkiwso@guest.airbnb.com
+HMHBQZRDSX
+yifei-qrl4pt0jpmwe85ir@guest.airbnb.com
+ALL EMAILS RETRIEVED
+recrod already exists...will update record HMWYJ52CT8
+reservation has been updated  HMWYJ52CT8
+recrod already exists...will update record HM3FWJS2RE
+reservation has been updated  HM3FWJS2RE
+recrod already exists...will update record HMWPRN3958
+reservation has been updated  HMWPRN3958
+recrod already exists...will update record HMYHWXD5TC
+reservation has been updated  HMYHWXD5TC
+recrod already exists...will update record HMQDHF3SJZ
+reservation has been updated  HMQDHF3SJZ
+recrod already exists...will update record HMQM38JMYS
+reservation has been updated  HMQM38JMYS
+recrod already exists...will update record HMMDTEFQJT
+reservation has been updated  HMMDTEFQJT
+recrod already exists...will update record HM23PBS22T
+reservation has been updated  HM23PBS22T
+recrod already exists...will update record HMBNDSEPTR
+reservation has been updated  HMBNDSEPTR
+recrod already exists...will update record HM5PQB5PM3
+reservation has been updated  HM5PQB5PM3
+recrod already exists...will update record HMZ5PSAF59
+reservation has been updated  HMZ5PSAF59
+recrod already exists...will update record HMXDSFP4S3
+reservation has been updated  HMXDSFP4S3
+recrod already exists...will update record HM599PSWDF
+reservation has been updated  HM599PSWDF
+recrod already exists...will update record HMJH2Z3CXE
+reservation has been updated  HMJH2Z3CXE
+recrod already exists...will update record HM83CRTNTE
+reservation has been updated  HM83CRTNTE
+recrod already exists...will update record HM948PNW83
+reservation has been updated  HM948PNW83
+recrod already exists...will update record HM5ESQCE3F
+reservation has been updated  HM5ESQCE3F
+recrod already exists...will update record HMEMBW24AN
+reservation has been updated  HMEMBW24AN
+recrod already exists...will update record HM5KCEQFBX
+reservation has been updated  HM5KCEQFBX
+recrod already exists...will update record HMNS824SRX
+reservation has been updated  HMNS824SRX
+recrod already exists...will update record HMNTYKJ43S
+reservation has been updated  HMNTYKJ43S
+recrod already exists...will update record HM2FABXMYS
+reservation has been updated  HM2FABXMYS
+recrod already exists...will update record HMBHK39PDP
+reservation has been updated  HMBHK39PDP
+recrod already exists...will update record HMMFXZCC5Z
+reservation has been updated  HMMFXZCC5Z
+recrod already exists...will update record HMAN92EMNN
+reservation has been updated  HMAN92EMNN
+recrod already exists...will update record HMAPM4BH3C
+reservation has been updated  HMAPM4BH3C
+recrod already exists...will update record HMEKPREQ5F
+reservation has been updated  HMEKPREQ5F
+recrod already exists...will update record HMCYEPMXEE
+reservation has been updated  HMCYEPMXEE
+recrod already exists...will update record HMABKJ4MBR
+reservation has been updated  HMABKJ4MBR
+recrod already exists...will update record HMMS48WCNH
+reservation has been updated  HMMS48WCNH
+recrod already exists...will update record HMTSSHRYBZ
+reservation has been updated  HMTSSHRYBZ
+recrod already exists...will update record HM4H324MQ8
+reservation has been updated  HM4H324MQ8
+recrod already exists...will update record HM345C8XX5
+reservation has been updated  HM345C8XX5
+recrod already exists...will update record HMAFNKZ5AN
+reservation has been updated  HMAFNKZ5AN
+recrod already exists...will update record HMTYEPNR9E
+reservation has been updated  HMTYEPNR9E
+recrod already exists...will update record HMD9ZAYRJY
+reservation has been updated  HMD9ZAYRJY
+recrod already exists...will update record HMZ3Q2K4HD
+reservation has been updated  HMZ3Q2K4HD
+recrod already exists...will update record HME43KTMF8
+reservation has been updated  HME43KTMF8
+recrod already exists...will update record HM539QKQJD
+reservation has been updated  HM539QKQJD
+recrod already exists...will update record HMHBQZRDSX
+reservation has been updated  HMHBQZRDSX
+email has been sent
+****************************************
+couldn't enter username or password due to an error or page is already logged in
+Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="email"]"}
+  (Session info: headless chrome=80.0.3987.87)
+
+file has been downloaded
+/home/moe/Desktop/airbnbSfSync/airbnbDownloads/export.csv
+file has been renamed
+HMSR2ZB4HE
+alexandra-fh9n249uzkoqcsza@guest.airbnb.com
+HM4B2WFKSS
+yilee-rhxdmdzfr8ua1ooh@guest.airbnb.com
+HMJPTREDXK
+kate-lgiylj6d0j8rgws2@guest.airbnb.com
+HMSXB9EE44
+dmitry-hznwugedq3xte9y7@guest.airbnb.com
+HMRFN8SS2E
+everson-76tgmszbmh8t38bx@guest.airbnb.com
+HM4SX4ADNA
+maryclare-u5m1dj7rfmmzkw9y@guest.airbnb.com
+HM9RJBX9BX
+danielande-exlfddk0t8zqx1ft@guest.airbnb.com
+HMANAYW9KX
+julie-u64qa3revb0wzwuy@guest.airbnb.com
+HMBWARND88
+courtney-w819aa1yj642rkqk@guest.airbnb.com
+HM8ARYRSW5
+bernardo-kcg50g8p8wxc6o4w@guest.airbnb.com
+HMAXB3FFWM
+gregory-00uegpaa5i9dzxem@guest.airbnb.com
+HMDEA9PKSK
+pahoua-nxw8h5tdmqb1337v@guest.airbnb.com
+HMHD429W2Y
+tibor-6mecevlutyuu2dtz@guest.airbnb.com
+HMT54QJ59S
+shaofang-n8seuioeu55zeepn@guest.airbnb.com
+HMAEREBX34
+wiwik-someg9t9f9cm1zcz@guest.airbnb.com
+HMQJ25A42M
+minho-bcwit0u1lscgmz52@guest.airbnb.com
+HM8BPRNBST
+douglas-nddn0hdtdor0vsh4@guest.airbnb.com
+HM9PWXCPDQ
+ginny-ij6ixao2d5ryxgcp@guest.airbnb.com
+HMTJZQ2XSX
+yiqing-sfpsf09sfxc8oxux@guest.airbnb.com
+HMKMXSRDSH
+brett-6ypgiqgq6pqra52u@guest.airbnb.com
+HMJ45DJJ42
+jackie-6n16w52djlqxvn30@guest.airbnb.com
+HMZTWM34ET
+alex-1uut7o8p7ys3xdcs@guest.airbnb.com
+HMPYFNWEFJ
+melissa-i38244tp7fg6d64w@guest.airbnb.com
+HMNSHDWWHQ
+ellen-6el1k9tnjuu7jt2f@guest.airbnb.com
+HM2BMTJHKY
+lee-pv5x2vfbu9bjcvao@guest.airbnb.com
+HM9PFXQHNB
+valerie-opfmidafp8i7sqb5@guest.airbnb.com
+HM5BPJRMFA
+amanda-y0ihlwayhltzrnp0@guest.airbnb.com
+HMQSBNXHXD
+kelly-ixhox52qkytedbm0@guest.airbnb.com
+HMJQFPSRWR
+paige-jzbgp0ok7jb8q6k6@guest.airbnb.com
+HMQ59ZJKDK
+jackson-v1w796bgxbljbqc7@guest.airbnb.com
+HMP3D24SBQ
+amanda-cio0ihhzwzwg13ua@guest.airbnb.com
+HMCXD55WEP
+hunter-clxb7vvezr9e4kg8@guest.airbnb.com
+HM9AQC4TKS
+fay-xjck4wkbt9gqp2q1@guest.airbnb.com
+HMAK89FTKW
+amanda-m45vl12oe6jhhkv1@guest.airbnb.com
+HMW9Q2MKRF
+brooke-1e4k6qvs1xoztw9v@guest.airbnb.com
+HM5QMHCBF9
+user-vfwql2lfbdmcuj9h@guest.airbnb.com
+HMWNA5DX4H
+ivette-csujr1scunoy74ly@guest.airbnb.com
+HM3FTKN88C
+sid-xiik7b2or8u5gljr@guest.airbnb.com
+HMJS4KKJ33
+sonia-nyx2zipso5ih1ytd@guest.airbnb.com
+HMAKPDKQWA
+amanda-2irv1npqdm0f3kqi@guest.airbnb.com
+ALL EMAILS RETRIEVED
+recrod already exists...will update record HMSR2ZB4HE
+reservation has been updated  HMSR2ZB4HE
+recrod already exists...will update record HM4B2WFKSS
+reservation has been updated  HM4B2WFKSS
+recrod already exists...will update record HMJPTREDXK
+reservation has been updated  HMJPTREDXK
+recrod already exists...will update record HMSXB9EE44
+reservation has been updated  HMSXB9EE44
+recrod already exists...will update record HMRFN8SS2E
+reservation has been updated  HMRFN8SS2E
+recrod already exists...will update record HM4SX4ADNA
+reservation has been updated  HM4SX4ADNA
+recrod already exists...will update record HM9RJBX9BX
+reservation has been updated  HM9RJBX9BX
+recrod already exists...will update record HMANAYW9KX
+reservation has been updated  HMANAYW9KX
+recrod already exists...will update record HMBWARND88
+reservation has been updated  HMBWARND88
+recrod already exists...will update record HM8ARYRSW5
+reservation has been updated  HM8ARYRSW5
+recrod already exists...will update record HMAXB3FFWM
+reservation has been updated  HMAXB3FFWM
+recrod already exists...will update record HMDEA9PKSK
+reservation has been updated  HMDEA9PKSK
+recrod already exists...will update record HMHD429W2Y
+reservation has been updated  HMHD429W2Y
+recrod already exists...will update record HMT54QJ59S
+reservation has been updated  HMT54QJ59S
+recrod already exists...will update record HMAEREBX34
+reservation has been updated  HMAEREBX34
+recrod already exists...will update record HMQJ25A42M
+reservation has been updated  HMQJ25A42M
+recrod already exists...will update record HM8BPRNBST
+reservation has been updated  HM8BPRNBST
+recrod already exists...will update record HM9PWXCPDQ
+reservation has been updated  HM9PWXCPDQ
+recrod already exists...will update record HMTJZQ2XSX
+reservation has been updated  HMTJZQ2XSX
+recrod already exists...will update record HMKMXSRDSH
+reservation has been updated  HMKMXSRDSH
+recrod already exists...will update record HMJ45DJJ42
+reservation has been updated  HMJ45DJJ42
+recrod already exists...will update record HMZTWM34ET
+reservation has been updated  HMZTWM34ET
+recrod already exists...will update record HMPYFNWEFJ
+reservation has been updated  HMPYFNWEFJ
+recrod already exists...will update record HMNSHDWWHQ
+reservation has been updated  HMNSHDWWHQ
+recrod already exists...will update record HM2BMTJHKY
+reservation has been updated  HM2BMTJHKY
+recrod already exists...will update record HM9PFXQHNB
+reservation has been updated  HM9PFXQHNB
+recrod already exists...will update record HM5BPJRMFA
+reservation has been updated  HM5BPJRMFA
+recrod already exists...will update record HMQSBNXHXD
+reservation has been updated  HMQSBNXHXD
+recrod already exists...will update record HMJQFPSRWR
+reservation has been updated  HMJQFPSRWR
+recrod already exists...will update record HMQ59ZJKDK
+reservation has been updated  HMQ59ZJKDK
+recrod already exists...will update record HMP3D24SBQ
+reservation has been updated  HMP3D24SBQ
+recrod already exists...will update record HMCXD55WEP
+reservation has been updated  HMCXD55WEP
+recrod already exists...will update record HM9AQC4TKS
+reservation has been updated  HM9AQC4TKS
+recrod already exists...will update record HMAK89FTKW
+reservation has been updated  HMAK89FTKW
+recrod already exists...will update record HMW9Q2MKRF
+reservation has been updated  HMW9Q2MKRF
+recrod already exists...will update record HM5QMHCBF9
+reservation has been updated  HM5QMHCBF9
+recrod already exists...will update record HMWNA5DX4H
+reservation has been updated  HMWNA5DX4H
+recrod already exists...will update record HM3FTKN88C
+reservation has been updated  HM3FTKN88C
+recrod already exists...will update record HMJS4KKJ33
+reservation has been updated  HMJS4KKJ33
+recrod already exists...will update record HMAKPDKQWA
+reservation has been updated  HMAKPDKQWA
+email has been sent
+****************************************

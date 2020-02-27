@@ -1,0 +1,14 @@
+2020-02-22 13:30:02.870659 2020-02-25 13:30:02.870659
+['a051U00001UfvG8QAJ', 'a051U00001Ud1YpQAJ']
+*************
+unitRuID:  2597799
+case1: 
+['a051U00001UfAPwQAN']
+*************
+unitRuID:  2596269
+case1: 
+[]
+case1 passed
+case2: 
+['a051U00001UdwsuQAB']
+email has been sent

@@ -1,0 +1,41 @@
+couldn't enter username or password due to an error or page is already logged in
+Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="email"]"}
+  (Session info: headless chrome=80.0.3987.87)
+
+Traceback (most recent call last):
+  File "/home/moe/Desktop/airbnbSfSync/hannah.py", line 366, in <module>
+    scraper1 = airbnbScraper("1")
+  File "/home/moe/Desktop/airbnbSfSync/hannah.py", line 33, in __init__
+    self.downloadReservations(page)
+  File "/home/moe/Desktop/airbnbSfSync/hannah.py", line 61, in downloadReservations
+    self.driver.get("https://www.airbnb.com/hosting/reservations/export.csv?sort_field=status&sort_order=asc&tab=upcoming&page=" + page)
+  File "/home/moe/Desktop/airbnbSfSync/venv/lib/python3.5/site-packages/selenium/webdriver/remote/webdriver.py", line 333, in get
+    self.execute(Command.GET, {'url': url})
+  File "/home/moe/Desktop/airbnbSfSync/venv/lib/python3.5/site-packages/selenium/webdriver/remote/webdriver.py", line 319, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/home/moe/Desktop/airbnbSfSync/venv/lib/python3.5/site-packages/selenium/webdriver/remote/remote_connection.py", line 374, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/home/moe/Desktop/airbnbSfSync/venv/lib/python3.5/site-packages/selenium/webdriver/remote/remote_connection.py", line 397, in _request
+    resp = self._conn.request(method, url, body=body, headers=headers)
+  File "/home/moe/Desktop/airbnbSfSync/venv/lib/python3.5/site-packages/urllib3/request.py", line 80, in request
+    method, url, fields=fields, headers=headers, **urlopen_kw
+  File "/home/moe/Desktop/airbnbSfSync/venv/lib/python3.5/site-packages/urllib3/request.py", line 171, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "/home/moe/Desktop/airbnbSfSync/venv/lib/python3.5/site-packages/urllib3/poolmanager.py", line 330, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/home/moe/Desktop/airbnbSfSync/venv/lib/python3.5/site-packages/urllib3/connectionpool.py", line 672, in urlopen
+    chunked=chunked,
+  File "/home/moe/Desktop/airbnbSfSync/venv/lib/python3.5/site-packages/urllib3/connectionpool.py", line 421, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/home/moe/Desktop/airbnbSfSync/venv/lib/python3.5/site-packages/urllib3/connectionpool.py", line 416, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.5/http/client.py", line 1213, in getresponse
+    response.begin()
+  File "/usr/lib/python3.5/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.5/http/client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/usr/lib/python3.5/socket.py", line 575, in readinto
+    return self._sock.recv_into(b)
+KeyboardInterrupt

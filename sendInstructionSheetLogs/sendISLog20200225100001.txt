@@ -1,0 +1,25 @@
+2020-02-25 10:00:02.854582 2020-02-28 10:00:02.854582
+*************
+unitRuID:  2426037
+case1: 
+*************
+unitRuID:  2602269
+case1: 
+*************
+unitRuID:  2597799
+case1: 
+case1 passed
+case2: 
+*************
+unitRuID:  2500624
+case1: 
+*************
+unitRuID:  2596269
+case1: 
+case1 passed
+case2: 
+case2 passed
+case3: 
+case3 passed
+booking record:  a051U00001Ud1YpQAJ  Has been updated
+email has been sent

@@ -1,0 +1,138 @@
+starting to scrape
+couldn't enter username or password due to an error or page is already logged in
+Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="email"]"}
+  (Session info: headless chrome=80.0.3987.87)
+
+file has been downloaded
+/home/moe/Desktop/airbnbSfSync/airbnbDownloads/export.csv
+file has been renamed
+recrod already exists...will skip record for now HM948PNW83
+recrod already exists...will skip record for now HMQ3ZXS3DE
+recrod already exists...will skip record for now HMEMJWKA28
+recrod already exists...will skip record for now HMJS5E3EFP
+recrod already exists...will skip record for now HMMFXZCC5Z
+Resource Booking__c Not Found. Response content: [{'errorCode': 'NOT_FOUND', 'message': 'The requested resource does not exist'}]
+record doesn't exist... will create 
+HMQSA8YRS2
+darwin-rs2hb7e9japhyhuy@guest.airbnb.com
+email has been retrieved:  darwin-rs2hb7e9japhyhuy@guest.airbnb.com
+email has been added
+reservation has been created HMQSA8YRS2
+recrod already exists...will skip record for now HMAN92EMNN
+recrod already exists...will skip record for now HMAPM4BH3C
+recrod already exists...will skip record for now HMEKPREQ5F
+recrod already exists...will skip record for now HMCYEPMXEE
+recrod already exists...will skip record for now HMABKJ4MBR
+recrod already exists...will skip record for now HMMS48WCNH
+recrod already exists...will skip record for now HMTSSHRYBZ
+recrod already exists...will skip record for now HM4H324MQ8
+recrod already exists...will skip record for now HM345C8XX5
+recrod already exists...will skip record for now HMPXP3A5DX
+recrod already exists...will skip record for now HMNYASCS95
+recrod already exists...will skip record for now HM3XP4233Q
+recrod already exists...will skip record for now HM9MAJX4HY
+recrod already exists...will skip record for now HMBNCEKP8P
+recrod already exists...will skip record for now HMAFNKZ5AN
+recrod already exists...will skip record for now HMTYEPNR9E
+recrod already exists...will skip record for now HMD9ZAYRJY
+recrod already exists...will skip record for now HMN3EQXWS2
+recrod already exists...will skip record for now HMZ3Q2K4HD
+recrod already exists...will skip record for now HME43KTMF8
+recrod already exists...will skip record for now HM539QKQJD
+recrod already exists...will skip record for now HMHBQZRDSX
+recrod already exists...will skip record for now HMSR2ZB4HE
+recrod already exists...will skip record for now HM4B2WFKSS
+recrod already exists...will skip record for now HMJPTREDXK
+recrod already exists...will skip record for now HMNBZRYZHM
+recrod already exists...will skip record for now HMSXB9EE44
+recrod already exists...will skip record for now HMRFN8SS2E
+recrod already exists...will skip record for now HMPAZACNYC
+recrod already exists...will skip record for now HMSXB5P2R8
+recrod already exists...will skip record for now HM4SX4ADNA
+recrod already exists...will skip record for now HM9RJBX9BX
+recrod already exists...will skip record for now HMANAYW9KX
+recrod already exists...will skip record for now HMBWARND88
+email has been sent
+ending scraper program
+************
+starting to scrape
+couldn't enter username or password due to an error or page is already logged in
+Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="email"]"}
+  (Session info: headless chrome=80.0.3987.87)
+
+file has been downloaded
+/home/moe/Desktop/airbnbSfSync/airbnbDownloads/export.csv
+file has been renamed
+recrod already exists...will skip record for now HM8ARYRSW5
+recrod already exists...will skip record for now HMAXB3FFWM
+recrod already exists...will skip record for now HMDEA9PKSK
+recrod already exists...will skip record for now HM8RYB4W8X
+recrod already exists...will skip record for now HMHD429W2Y
+recrod already exists...will skip record for now HMT54QJ59S
+recrod already exists...will skip record for now HMAEREBX34
+recrod already exists...will skip record for now HMQJ25A42M
+recrod already exists...will skip record for now HM8BPRNBST
+recrod already exists...will skip record for now HM9PWXCPDQ
+recrod already exists...will skip record for now HMTJZQ2XSX
+recrod already exists...will skip record for now HMKMXSRDSH
+recrod already exists...will skip record for now HMJ45DJJ42
+recrod already exists...will skip record for now HMZTWM34ET
+recrod already exists...will skip record for now HMPYFNWEFJ
+recrod already exists...will skip record for now HMNSHDWWHQ
+recrod already exists...will skip record for now HM2BMTJHKY
+recrod already exists...will skip record for now HM9PFXQHNB
+recrod already exists...will skip record for now HM5BPJRMFA
+recrod already exists...will skip record for now HMQSBNXHXD
+recrod already exists...will skip record for now HMJQFPSRWR
+recrod already exists...will skip record for now HMQ59ZJKDK
+recrod already exists...will skip record for now HMHS9QAESQ
+recrod already exists...will skip record for now HMP3D24SBQ
+recrod already exists...will skip record for now HMCXD55WEP
+recrod already exists...will skip record for now HM9AQC4TKS
+recrod already exists...will skip record for now HMAK89FTKW
+recrod already exists...will skip record for now HMW9Q2MKRF
+recrod already exists...will skip record for now HM5QMHCBF9
+recrod already exists...will skip record for now HMWNA5DX4H
+recrod already exists...will skip record for now HM3FTKN88C
+recrod already exists...will skip record for now HMJS4KKJ33
+recrod already exists...will skip record for now HMAKPDKQWA
+recrod already exists...will skip record for now HMXZMSX5WA
+recrod already exists...will skip record for now HMF8YECCB3
+recrod already exists...will skip record for now HMYSWXZMCH
+recrod already exists...will skip record for now HMB842ADFK
+recrod already exists...will skip record for now HM3CK8WCKQ
+recrod already exists...will skip record for now HMRB5N3NCS
+recrod already exists...will skip record for now HMAEJ8SAJK
+email has been sent
+ending scraper program
+************
+starting to scrape
+couldn't enter username or password due to an error or page is already logged in
+Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="email"]"}
+  (Session info: headless chrome=80.0.3987.87)
+
+file has been downloaded
+/home/moe/Desktop/airbnbSfSync/airbnbDownloads/export.csv
+file has been renamed
+recrod already exists...will skip record for now HMKBZWZMPA
+recrod already exists...will skip record for now HM992HB9CD
+recrod already exists...will skip record for now HMPZHJX2KQ
+recrod already exists...will skip record for now HMAY5MBPHZ
+recrod already exists...will skip record for now HMRZM5SXNJ
+recrod already exists...will skip record for now HM4PZW8CAY
+recrod already exists...will skip record for now HMHKF5W3C4
+recrod already exists...will skip record for now HMK443BTZX
+recrod already exists...will skip record for now HMPHQTMC95
+recrod already exists...will skip record for now HMJH4WNF8S
+recrod already exists...will skip record for now HMBW932C3A
+recrod already exists...will skip record for now HMAKZPWF8C
+recrod already exists...will skip record for now HM3ZWRSFFP
+recrod already exists...will skip record for now HMEE9KZE4P
+recrod already exists...will skip record for now HMJASY8AXQ
+recrod already exists...will skip record for now HMPQDYDT2Q
+recrod already exists...will skip record for now HMAMZTQ9TA
+recrod already exists...will skip record for now HMAFY852PT
+recrod already exists...will skip record for now HMAB8D5YXE
+recrod already exists...will skip record for now HMAXTN299Z
+email has been sent
+ending scraper program

@@ -1,0 +1,1 @@
+/bin/sh: 1: /home/moe/Desccccktop/airbnbSfSync/venv/bin/python3: not found

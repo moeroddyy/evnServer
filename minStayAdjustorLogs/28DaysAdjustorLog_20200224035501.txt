@@ -1,0 +1,72 @@
+2020-02-24   2020-05-24
+0
+<Push_PutMinstay_RS><Status ID="0">Success</Status><ResponseID>c65f2f04b64946b4ae00bf5db08f9f48</ResponseID><Notifs /></Push_PutMinstay_RS>
+minimum stay has been successfully added to the property:  2551193
+2020-02-24   2020-05-24
+0
+<Push_PutMinstay_RS><Status ID="0">Success</Status><ResponseID>789e63619be04d789d62a7524313248d</ResponseID><Notifs /></Push_PutMinstay_RS>
+minimum stay has been successfully added to the property:  2426037
+2020-02-24   2020-05-24
+0
+<Push_PutMinstay_RS><Status ID="0">Success</Status><ResponseID>4e62ceef46ab426a9815dac2c1eda494</ResponseID><Notifs /></Push_PutMinstay_RS>
+minimum stay has been successfully added to the property:  2256451
+2020-02-24   2020-05-24
+0
+<Push_PutMinstay_RS><Status ID="0">Success</Status><ResponseID>3dbbe48238c34fc7bccc8229b53c8991</ResponseID><Notifs /></Push_PutMinstay_RS>
+minimum stay has been successfully added to the property:  2596267
+2020-02-24   2020-05-24
+0
+<Push_PutMinstay_RS><Status ID="0">Success</Status><ResponseID>5cc595907a7d413987858f14ac4fdbdc</ResponseID><Notifs /></Push_PutMinstay_RS>
+minimum stay has been successfully added to the property:  2596268
+2020-02-24   2020-05-24
+0
+<Push_PutMinstay_RS><Status ID="0">Success</Status><ResponseID>d16f967f62f047fa8a4e2eb022c7ac6b</ResponseID><Notifs /></Push_PutMinstay_RS>
+minimum stay has been successfully added to the property:  2602269
+2020-02-24   2020-05-24
+0
+<Push_PutMinstay_RS><Status ID="0">Success</Status><ResponseID>80a78b794c444d61ae90803becc2b215</ResponseID><Notifs /></Push_PutMinstay_RS>
+minimum stay has been successfully added to the property:  2360649
+2020-02-24   2020-05-24
+0
+<Push_PutMinstay_RS><Status ID="0">Success</Status><ResponseID>452f6ff946eb4a0da0dc0fcba98d50c9</ResponseID><Notifs /></Push_PutMinstay_RS>
+minimum stay has been successfully added to the property:  2096872
+2020-02-24   2020-05-24
+0
+<Push_PutMinstay_RS><Status ID="0">Success</Status><ResponseID>18a96a5b5f45451780141c3ad1a80480</ResponseID><Notifs /></Push_PutMinstay_RS>
+minimum stay has been successfully added to the property:  2596269
+2020-02-24   2020-05-24
+0
+<Push_PutMinstay_RS><Status ID="0">Success</Status><ResponseID>bd9f74cc7b6945be92ce692f9fc5d1ac</ResponseID><Notifs /></Push_PutMinstay_RS>
+minimum stay has been successfully added to the property:  2500629
+2020-02-24   2020-05-24
+0
+<Push_PutMinstay_RS><Status ID="0">Success</Status><ResponseID>332b7baf0ea6409e81b2355e1a4022f9</ResponseID><Notifs /></Push_PutMinstay_RS>
+minimum stay has been successfully added to the property:  2500630
+2020-02-24   2020-05-24
+0
+<Push_PutMinstay_RS><Status ID="0">Success</Status><ResponseID>af19483b02774bfeaf0fc1f0cf5d2415</ResponseID><Notifs /></Push_PutMinstay_RS>
+minimum stay has been successfully added to the property:  2500624
+2020-02-24   2020-05-24
+0
+<Push_PutMinstay_RS><Status ID="0">Success</Status><ResponseID>c982d82a0d254105b5bf351197111d4f</ResponseID><Notifs /></Push_PutMinstay_RS>
+minimum stay has been successfully added to the property:  2498382
+2020-02-24   2020-05-24
+0
+<Push_PutMinstay_RS><Status ID="0">Success</Status><ResponseID>54bcca42925249fcb5834d52fdfb08ee</ResponseID><Notifs /></Push_PutMinstay_RS>
+minimum stay has been successfully added to the property:  2500627
+2020-02-24   2020-05-24
+0
+<Push_PutMinstay_RS><Status ID="0">Success</Status><ResponseID>2b099d696c7943498b491347d435b3d3</ResponseID><Notifs /></Push_PutMinstay_RS>
+minimum stay has been successfully added to the property:  2500628
+2020-02-24   2020-05-24
+0
+<Push_PutMinstay_RS><Status ID="0">Success</Status><ResponseID>5c8bb7c129d34802985b3ff30e46f116</ResponseID><Notifs /></Push_PutMinstay_RS>
+minimum stay has been successfully added to the property:  2531480
+2020-02-24   2020-05-24
+0
+<Push_PutMinstay_RS><Status ID="0">Success</Status><ResponseID>605fdd59415a40dabd09c69d32a8c042</ResponseID><Notifs /></Push_PutMinstay_RS>
+minimum stay has been successfully added to the property:  2597799
+2020-02-24   2020-05-24
+0
+<Push_PutMinstay_RS><Status ID="0">Success</Status><ResponseID>3db5cc427acd42b49adf7f6636006212</ResponseID><Notifs /></Push_PutMinstay_RS>
+minimum stay has been successfully added to the property:  2096645

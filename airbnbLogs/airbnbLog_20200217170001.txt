@@ -1,0 +1,19 @@
+couldn't enter username or password due to an error or page is already logged in
+Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="email"]"}
+  (Session info: headless chrome=80.0.3987.87)
+
+file has been downloaded
+/home/moe/Desktop/airbnbSfSync/airbnbDownloads/export.csv
+file has been renamed
+Traceback (most recent call last):
+  File "/home/moe/Desktop/airbnbSfSync/hannah.py", line 366, in <module>
+    scraper1 = airbnbScraper("1")
+  File "/home/moe/Desktop/airbnbSfSync/hannah.py", line 35, in __init__
+    self.sheet = csvFile()
+  File "/home/moe/Desktop/airbnbSfSync/hannah.py", line 185, in __init__
+    self.fixSheet()
+  File "/home/moe/Desktop/airbnbSfSync/hannah.py", line 236, in fixSheet
+    self.fixName()
+  File "/home/moe/Desktop/airbnbSfSync/hannah.py", line 218, in fixName
+    reservation.update({'First Name':temp[0], 'Last Name':temp[1]})
+IndexError: list index out of range

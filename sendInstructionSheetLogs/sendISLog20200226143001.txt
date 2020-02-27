@@ -1,0 +1,23 @@
+2020-02-26 14:30:02.264440 2020-02-29 14:30:02.264440
+*************
+unitRuID:  2360649
+case1: 
+*************
+unitRuID:  2531480
+case1: 
+case1 passed
+case2: 
+case2 passed
+case3: 
+case3 passed
+booking record:  a051U00001jVFasQAG  Has been updated
+*************
+unitRuID:  2597799
+case1: 
+*************
+unitRuID:  2360649
+case1: 
+*************
+unitRuID:  2500627
+case1: 
+email has been sent

@@ -1,0 +1,302 @@
+starting to scrape
+couldn't enter username or password due to an error or page is already logged in
+Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="email"]"}
+  (Session info: headless chrome=80.0.3987.87)
+
+file has been downloaded
+/home/moe/Desktop/airbnbSfSync/airbnbDownloads/export.csv
+file has been renamed
+recrod already exists...will skip record for now HMWYJ52CT8
+reservation has been skipped  HMWYJ52CT8
+recrod already exists...will skip record for now HMMDTEFQJT
+reservation has been skipped  HMMDTEFQJT
+recrod already exists...will skip record for now HM23PBS22T
+reservation has been skipped  HM23PBS22T
+recrod already exists...will skip record for now HMBNDSEPTR
+reservation has been skipped  HMBNDSEPTR
+recrod already exists...will skip record for now HM5PQB5PM3
+reservation has been skipped  HM5PQB5PM3
+recrod already exists...will skip record for now HM599PSWDF
+reservation has been skipped  HM599PSWDF
+recrod already exists...will skip record for now HMJH2Z3CXE
+reservation has been skipped  HMJH2Z3CXE
+recrod already exists...will skip record for now HM83CRTNTE
+reservation has been skipped  HM83CRTNTE
+recrod already exists...will skip record for now HM948PNW83
+reservation has been skipped  HM948PNW83
+recrod already exists...will skip record for now HM5ESQCE3F
+reservation has been skipped  HM5ESQCE3F
+recrod already exists...will skip record for now HMEMBW24AN
+reservation has been skipped  HMEMBW24AN
+recrod already exists...will skip record for now HM5KCEQFBX
+reservation has been skipped  HM5KCEQFBX
+recrod already exists...will skip record for now HMNS824SRX
+reservation has been skipped  HMNS824SRX
+recrod already exists...will skip record for now HMNTYKJ43S
+reservation has been skipped  HMNTYKJ43S
+recrod already exists...will skip record for now HM2FABXMYS
+reservation has been skipped  HM2FABXMYS
+Resource Booking__c Not Found. Response content: [{'errorCode': 'NOT_FOUND', 'message': 'The requested resource does not exist'}]
+record doesn't exist... will create 
+HMT8H52FA9
+pat-3ion6m9truoh5dmu@guest.airbnb.com
+email has been retrieved:  pat-3ion6m9truoh5dmu@guest.airbnb.com
+email has been added
+reservation has been created HMT8H52FA9
+recrod already exists...will skip record for now HMBHK39PDP
+reservation has been skipped  HMBHK39PDP
+recrod already exists...will skip record for now HMW859K9RN
+reservation has been skipped  HMW859K9RN
+Resource Booking__c Not Found. Response content: [{'errorCode': 'NOT_FOUND', 'message': 'The requested resource does not exist'}]
+record doesn't exist... will create 
+HMEMJWKA28
+beth-izk8e52hbwxapvul@guest.airbnb.com
+email has been retrieved:  beth-izk8e52hbwxapvul@guest.airbnb.com
+email has been added
+reservation has been created HMEMJWKA28
+recrod already exists...will skip record for now HMMFXZCC5Z
+reservation has been skipped  HMMFXZCC5Z
+recrod already exists...will skip record for now HMAN92EMNN
+reservation has been skipped  HMAN92EMNN
+recrod already exists...will skip record for now HMAPM4BH3C
+reservation has been skipped  HMAPM4BH3C
+recrod already exists...will skip record for now HMEKPREQ5F
+reservation has been skipped  HMEKPREQ5F
+recrod already exists...will skip record for now HMCYEPMXEE
+reservation has been skipped  HMCYEPMXEE
+recrod already exists...will skip record for now HMABKJ4MBR
+reservation has been skipped  HMABKJ4MBR
+recrod already exists...will skip record for now HMMS48WCNH
+reservation has been skipped  HMMS48WCNH
+recrod already exists...will skip record for now HMTSSHRYBZ
+reservation has been skipped  HMTSSHRYBZ
+recrod already exists...will skip record for now HM4H324MQ8
+reservation has been skipped  HM4H324MQ8
+recrod already exists...will skip record for now HM345C8XX5
+reservation has been skipped  HM345C8XX5
+recrod already exists...will skip record for now HMAFNKZ5AN
+reservation has been skipped  HMAFNKZ5AN
+recrod already exists...will skip record for now HMTYEPNR9E
+reservation has been skipped  HMTYEPNR9E
+recrod already exists...will skip record for now HMD9ZAYRJY
+reservation has been skipped  HMD9ZAYRJY
+recrod already exists...will skip record for now HMN3EQXWS2
+reservation has been skipped  HMN3EQXWS2
+recrod already exists...will skip record for now HMZ3Q2K4HD
+reservation has been skipped  HMZ3Q2K4HD
+recrod already exists...will skip record for now HME43KTMF8
+reservation has been skipped  HME43KTMF8
+recrod already exists...will skip record for now HM539QKQJD
+reservation has been skipped  HM539QKQJD
+recrod already exists...will skip record for now HMHBQZRDSX
+reservation has been skipped  HMHBQZRDSX
+recrod already exists...will skip record for now HMSR2ZB4HE
+reservation has been skipped  HMSR2ZB4HE
+recrod already exists...will skip record for now HM4B2WFKSS
+reservation has been skipped  HM4B2WFKSS
+recrod already exists...will skip record for now HMJPTREDXK
+reservation has been skipped  HMJPTREDXK
+email has been sent
+ending scraper program
+************
+starting to scrape
+couldn't enter username or password due to an error or page is already logged in
+Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="email"]"}
+  (Session info: headless chrome=80.0.3987.87)
+
+file has been downloaded
+/home/moe/Desktop/airbnbSfSync/airbnbDownloads/export.csv
+file has been renamed
+recrod already exists...will skip record for now HMWYJ52CT8
+reservation has been skipped  HMWYJ52CT8
+recrod already exists...will skip record for now HMMDTEFQJT
+reservation has been skipped  HMMDTEFQJT
+recrod already exists...will skip record for now HM23PBS22T
+reservation has been skipped  HM23PBS22T
+recrod already exists...will skip record for now HMBNDSEPTR
+reservation has been skipped  HMBNDSEPTR
+recrod already exists...will skip record for now HM5PQB5PM3
+reservation has been skipped  HM5PQB5PM3
+recrod already exists...will skip record for now HM599PSWDF
+reservation has been skipped  HM599PSWDF
+recrod already exists...will skip record for now HMJH2Z3CXE
+reservation has been skipped  HMJH2Z3CXE
+recrod already exists...will skip record for now HM83CRTNTE
+reservation has been skipped  HM83CRTNTE
+recrod already exists...will skip record for now HM948PNW83
+reservation has been skipped  HM948PNW83
+recrod already exists...will skip record for now HM5ESQCE3F
+reservation has been skipped  HM5ESQCE3F
+recrod already exists...will skip record for now HMEMBW24AN
+reservation has been skipped  HMEMBW24AN
+recrod already exists...will skip record for now HM5KCEQFBX
+reservation has been skipped  HM5KCEQFBX
+recrod already exists...will skip record for now HMNS824SRX
+reservation has been skipped  HMNS824SRX
+recrod already exists...will skip record for now HMNTYKJ43S
+reservation has been skipped  HMNTYKJ43S
+recrod already exists...will skip record for now HM2FABXMYS
+reservation has been skipped  HM2FABXMYS
+Resource Booking__c Not Found. Response content: [{'errorCode': 'NOT_FOUND', 'message': 'The requested resource does not exist'}]
+record doesn't exist... will create 
+HMT8H52FA9
+pat-3ion6m9truoh5dmu@guest.airbnb.com
+email has been retrieved:  pat-3ion6m9truoh5dmu@guest.airbnb.com
+email has been added
+reservation has been created HMT8H52FA9
+recrod already exists...will skip record for now HMBHK39PDP
+reservation has been skipped  HMBHK39PDP
+recrod already exists...will skip record for now HMW859K9RN
+reservation has been skipped  HMW859K9RN
+Resource Booking__c Not Found. Response content: [{'errorCode': 'NOT_FOUND', 'message': 'The requested resource does not exist'}]
+record doesn't exist... will create 
+HMEMJWKA28
+beth-izk8e52hbwxapvul@guest.airbnb.com
+email has been retrieved:  beth-izk8e52hbwxapvul@guest.airbnb.com
+email has been added
+reservation has been created HMEMJWKA28
+recrod already exists...will skip record for now HMMFXZCC5Z
+reservation has been skipped  HMMFXZCC5Z
+recrod already exists...will skip record for now HMAN92EMNN
+reservation has been skipped  HMAN92EMNN
+recrod already exists...will skip record for now HMAPM4BH3C
+reservation has been skipped  HMAPM4BH3C
+recrod already exists...will skip record for now HMEKPREQ5F
+reservation has been skipped  HMEKPREQ5F
+recrod already exists...will skip record for now HMCYEPMXEE
+reservation has been skipped  HMCYEPMXEE
+recrod already exists...will skip record for now HMABKJ4MBR
+reservation has been skipped  HMABKJ4MBR
+recrod already exists...will skip record for now HMMS48WCNH
+reservation has been skipped  HMMS48WCNH
+recrod already exists...will skip record for now HMTSSHRYBZ
+reservation has been skipped  HMTSSHRYBZ
+recrod already exists...will skip record for now HM4H324MQ8
+reservation has been skipped  HM4H324MQ8
+recrod already exists...will skip record for now HM345C8XX5
+reservation has been skipped  HM345C8XX5
+recrod already exists...will skip record for now HMAFNKZ5AN
+reservation has been skipped  HMAFNKZ5AN
+recrod already exists...will skip record for now HMTYEPNR9E
+reservation has been skipped  HMTYEPNR9E
+recrod already exists...will skip record for now HMD9ZAYRJY
+reservation has been skipped  HMD9ZAYRJY
+recrod already exists...will skip record for now HMN3EQXWS2
+reservation has been skipped  HMN3EQXWS2
+recrod already exists...will skip record for now HMZ3Q2K4HD
+reservation has been skipped  HMZ3Q2K4HD
+recrod already exists...will skip record for now HME43KTMF8
+reservation has been skipped  HME43KTMF8
+recrod already exists...will skip record for now HM539QKQJD
+reservation has been skipped  HM539QKQJD
+recrod already exists...will skip record for now HMHBQZRDSX
+reservation has been skipped  HMHBQZRDSX
+recrod already exists...will skip record for now HMSR2ZB4HE
+reservation has been skipped  HMSR2ZB4HE
+recrod already exists...will skip record for now HM4B2WFKSS
+reservation has been skipped  HM4B2WFKSS
+recrod already exists...will skip record for now HMJPTREDXK
+reservation has been skipped  HMJPTREDXK
+email has been sent
+ending scraper program
+************
+starting to scrape
+couldn't enter username or password due to an error or page is already logged in
+Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="email"]"}
+  (Session info: headless chrome=80.0.3987.87)
+
+file has been downloaded
+/home/moe/Desktop/airbnbSfSync/airbnbDownloads/export.csv
+file has been renamed
+recrod already exists...will skip record for now HMWYJ52CT8
+reservation has been skipped  HMWYJ52CT8
+recrod already exists...will skip record for now HMMDTEFQJT
+reservation has been skipped  HMMDTEFQJT
+recrod already exists...will skip record for now HM23PBS22T
+reservation has been skipped  HM23PBS22T
+recrod already exists...will skip record for now HMBNDSEPTR
+reservation has been skipped  HMBNDSEPTR
+recrod already exists...will skip record for now HM5PQB5PM3
+reservation has been skipped  HM5PQB5PM3
+recrod already exists...will skip record for now HM599PSWDF
+reservation has been skipped  HM599PSWDF
+recrod already exists...will skip record for now HMJH2Z3CXE
+reservation has been skipped  HMJH2Z3CXE
+recrod already exists...will skip record for now HM83CRTNTE
+reservation has been skipped  HM83CRTNTE
+recrod already exists...will skip record for now HM948PNW83
+reservation has been skipped  HM948PNW83
+recrod already exists...will skip record for now HM5ESQCE3F
+reservation has been skipped  HM5ESQCE3F
+recrod already exists...will skip record for now HMEMBW24AN
+reservation has been skipped  HMEMBW24AN
+recrod already exists...will skip record for now HM5KCEQFBX
+reservation has been skipped  HM5KCEQFBX
+recrod already exists...will skip record for now HMNS824SRX
+reservation has been skipped  HMNS824SRX
+recrod already exists...will skip record for now HMNTYKJ43S
+reservation has been skipped  HMNTYKJ43S
+recrod already exists...will skip record for now HM2FABXMYS
+reservation has been skipped  HM2FABXMYS
+Resource Booking__c Not Found. Response content: [{'errorCode': 'NOT_FOUND', 'message': 'The requested resource does not exist'}]
+record doesn't exist... will create 
+HMT8H52FA9
+pat-3ion6m9truoh5dmu@guest.airbnb.com
+email has been retrieved:  pat-3ion6m9truoh5dmu@guest.airbnb.com
+email has been added
+reservation has been created HMT8H52FA9
+recrod already exists...will skip record for now HMBHK39PDP
+reservation has been skipped  HMBHK39PDP
+recrod already exists...will skip record for now HMW859K9RN
+reservation has been skipped  HMW859K9RN
+Resource Booking__c Not Found. Response content: [{'errorCode': 'NOT_FOUND', 'message': 'The requested resource does not exist'}]
+record doesn't exist... will create 
+HMEMJWKA28
+beth-izk8e52hbwxapvul@guest.airbnb.com
+email has been retrieved:  beth-izk8e52hbwxapvul@guest.airbnb.com
+email has been added
+reservation has been created HMEMJWKA28
+recrod already exists...will skip record for now HMMFXZCC5Z
+reservation has been skipped  HMMFXZCC5Z
+recrod already exists...will skip record for now HMAN92EMNN
+reservation has been skipped  HMAN92EMNN
+recrod already exists...will skip record for now HMAPM4BH3C
+reservation has been skipped  HMAPM4BH3C
+recrod already exists...will skip record for now HMEKPREQ5F
+reservation has been skipped  HMEKPREQ5F
+recrod already exists...will skip record for now HMCYEPMXEE
+reservation has been skipped  HMCYEPMXEE
+recrod already exists...will skip record for now HMABKJ4MBR
+reservation has been skipped  HMABKJ4MBR
+recrod already exists...will skip record for now HMMS48WCNH
+reservation has been skipped  HMMS48WCNH
+recrod already exists...will skip record for now HMTSSHRYBZ
+reservation has been skipped  HMTSSHRYBZ
+recrod already exists...will skip record for now HM4H324MQ8
+reservation has been skipped  HM4H324MQ8
+recrod already exists...will skip record for now HM345C8XX5
+reservation has been skipped  HM345C8XX5
+recrod already exists...will skip record for now HMAFNKZ5AN
+reservation has been skipped  HMAFNKZ5AN
+recrod already exists...will skip record for now HMTYEPNR9E
+reservation has been skipped  HMTYEPNR9E
+recrod already exists...will skip record for now HMD9ZAYRJY
+reservation has been skipped  HMD9ZAYRJY
+recrod already exists...will skip record for now HMN3EQXWS2
+reservation has been skipped  HMN3EQXWS2
+recrod already exists...will skip record for now HMZ3Q2K4HD
+reservation has been skipped  HMZ3Q2K4HD
+recrod already exists...will skip record for now HME43KTMF8
+reservation has been skipped  HME43KTMF8
+recrod already exists...will skip record for now HM539QKQJD
+reservation has been skipped  HM539QKQJD
+recrod already exists...will skip record for now HMHBQZRDSX
+reservation has been skipped  HMHBQZRDSX
+recrod already exists...will skip record for now HMSR2ZB4HE
+reservation has been skipped  HMSR2ZB4HE
+recrod already exists...will skip record for now HM4B2WFKSS
+reservation has been skipped  HM4B2WFKSS
+recrod already exists...will skip record for now HMJPTREDXK
+reservation has been skipped  HMJPTREDXK
+email has been sent
+ending scraper program

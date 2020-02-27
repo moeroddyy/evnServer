@@ -1,0 +1,23 @@
+2020-02-26 18:00:03.498246 2020-02-29 18:00:03.498246
+*************
+unitRuID:  2360649
+case1: 
+*************
+unitRuID:  2500628
+case1: 
+case1 passed
+case2: 
+case2 passed
+case3: 
+case3 passed
+booking record:  a051U00001Uf23GQAR  Has been updated
+*************
+unitRuID:  2597799
+case1: 
+*************
+unitRuID:  2360649
+case1: 
+*************
+unitRuID:  2500627
+case1: 
+email has been sent

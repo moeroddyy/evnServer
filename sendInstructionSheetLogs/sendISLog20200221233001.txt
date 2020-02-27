@@ -1,0 +1,31 @@
+2020-02-21 23:30:02.485796 2020-02-24 23:30:02.485796
+['a051U00001UfvG8QAJ', 'a051U00001UfvCzQAJ', 'a051U00001UfwjQQAR']
+*************
+unitRuID:  2597799
+case1: 
+['a051U00001UfAPwQAN']
+*************
+unitRuID:  2596269
+case1: 
+[]
+case1 passed
+case2: 
+[]
+case2 passed
+case3: 
+[]
+case3 passed
+booking record:  a051U00001UfvCzQAJ  Has been updated
+*************
+unitRuID:  2256451
+case1: 
+[]
+case1 passed
+case2: 
+[]
+case2 passed
+case3: 
+[]
+case3 passed
+booking record:  a051U00001UfwjQQAR  Has been updated
+email has been sent

@@ -1,0 +1,19 @@
+2020-02-26 15:30:03.093538 2020-02-29 15:30:03.093538
+*************
+unitRuID:  2360649
+case1: 
+*************
+unitRuID:  2360649
+case1: 
+case1 passed
+case2: 
+*************
+unitRuID:  2597799
+case1: 
+*************
+unitRuID:  2360649
+case1: 
+*************
+unitRuID:  2500627
+case1: 
+email has been sent

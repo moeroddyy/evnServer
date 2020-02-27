@@ -1,0 +1,1 @@
+/bin/sh: 1: /h222ome/moe/Desktop/airbnbSfSync/venv/bin/python: not found

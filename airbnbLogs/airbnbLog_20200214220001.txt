@@ -1,0 +1,135 @@
+couldn't enter username or password due to an error or page is already logged in
+Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="email"]"}
+  (Session info: headless chrome=79.0.3945.130)
+
+file has been downloaded
+/home/moe/Desktop/airbnbSfSync/airbnbDownloads/export.csv
+file has been renamed
+HMFAMN3YCQ
+eatalyusa-skae6s3wftodirsz@guest.airbnb.com
+HMWYJ52CT8
+johann-u7cutb4ljdijt917@guest.airbnb.com
+HME9ACTECZ
+caroline-uwvdxqeutm7ti23u@guest.airbnb.com
+HM8BRKPF8P
+Message: no such element: Unable to locate element: {"method":"css selector","selector":"span._1jlnvra2"}
+  (Session info: headless chrome=79.0.3945.130)
+
+trying again
+second try failed
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="site-content"]/div/div/div[2]/div/div/div[15]/div[1]/div[1]/div/div/div/span"}
+  (Session info: headless chrome=79.0.3945.130)
+
+HMHXFEZN5P
+laura-7qw4tvmk6wqxsya8@guest.airbnb.com
+HMEDRFQEST
+jim-jkne71bytlhjq4qr@guest.airbnb.com
+HM3FWJS2RE
+ethan-5228vilcp4hggtyf@guest.airbnb.com
+HMWPRN3958
+anna-xjx8tnvmr2z953nm@guest.airbnb.com
+HMM45QFA44
+samuel-kn4l6pdj98co8i3n@guest.airbnb.com
+HMYHWXD5TC
+vanessa-f8d6a64m1nhfyemk@guest.airbnb.com
+HMX5R2Y3S8
+brandon-wzzpdrms3rmdl1w7@guest.airbnb.com
+HMTW9HPKEN
+oliver-3p9ha4cezvlzphd7@guest.airbnb.com
+HMHMKPCEC3
+kathleen-g347tkdueijo11s2@guest.airbnb.com
+HMQDHF3SJZ
+matthew-3xbfryp7ngxksejl@guest.airbnb.com
+HMQM38JMYS
+kensley-zjlqr425z9jelszl@guest.airbnb.com
+HMZ8WPRZD5
+wei-z328jfbtfnnpuq6q@guest.airbnb.com
+HMCMA3EMNS
+truong-lcfli2erhrrr4jry@guest.airbnb.com
+HMMDTEFQJT
+kevin-ept9zxfna6sdoug5@guest.airbnb.com
+HM23PBS22T
+fares-agv2kchttq1uxbgq@guest.airbnb.com
+HMJH2Z3CXE
+reggene-2qpfd3ddg9pj2naa@guest.airbnb.com
+HM948PNW83
+heesung-jxtj91q085oulmeg@guest.airbnb.com
+HM5ESQCE3F
+elaine-32235t480cyegih2@guest.airbnb.com
+HM5KCEQFBX
+hilary-0v2przpl9d0nk125@guest.airbnb.com
+HMNS824SRX
+gisela-ij6m4vl47dn8i9yz@guest.airbnb.com
+HMNTYKJ43S
+joseph-ta269eiwbur46edt@guest.airbnb.com
+HMBHK39PDP
+jennifer-c0wjs351o9z1xclm@guest.airbnb.com
+HMMFXZCC5Z
+christophe-cl7v29tv4cjp85r1@guest.airbnb.com
+HMAN92EMNN
+william-gzu3maxf9pv3fvxg@guest.airbnb.com
+HMAPM4BH3C
+matthew-2yqhc9sy4cge9qie@guest.airbnb.com
+HMEKPREQ5F
+william-n4r0ciqxao6clrow@guest.airbnb.com
+HMCYEPMXEE
+theresa-r7iua1zhijhcc9n0@guest.airbnb.com
+HMABKJ4MBR
+shaun-terkd3z5fcfoz9ig@guest.airbnb.com
+HMMS48WCNH
+lauren-8np9tdlwu3nt9a9x@guest.airbnb.com
+HMTSSHRYBZ
+phong-wcx5u8473y72mpe8@guest.airbnb.com
+HM4H324MQ8
+greg-si8uhvqdbaujbtbv@guest.airbnb.com
+HM345C8XX5
+justin-coyrvfxherowpw57@guest.airbnb.com
+HMAFNKZ5AN
+fran-fdxakumvxn7pxi6w@guest.airbnb.com
+HMTYEPNR9E
+lauren-rnxfr1t6uvzba98z@guest.airbnb.com
+HMD9ZAYRJY
+barbara-e144rktx82pzc61m@guest.airbnb.com
+HMZ3Q2K4HD
+stephanie-1uiaknvj0rm9hpmn@guest.airbnb.com
+ALL EMAILS RETRIEVED
+recrod already exists...will update record HMFAMN3YCQ
+reservation has been updated  HMFAMN3YCQ
+recrod already exists...will update record HMWYJ52CT8
+reservation has been updated  HMWYJ52CT8
+recrod already exists...will update record HME9ACTECZ
+reservation has been updated  HME9ACTECZ
+recrod already exists...will update record HM8BRKPF8P
+reservation has been updated  HM8BRKPF8P
+recrod already exists...will update record HMHXFEZN5P
+reservation has been updated  HMHXFEZN5P
+recrod already exists...will update record HMEDRFQEST
+reservation has been updated  HMEDRFQEST
+recrod already exists...will update record HM3FWJS2RE
+reservation has been updated  HM3FWJS2RE
+recrod already exists...will update record HMWPRN3958
+reservation has been updated  HMWPRN3958
+recrod already exists...will update record HMM45QFA44
+reservation has been updated  HMM45QFA44
+recrod already exists...will update record HMYHWXD5TC
+reservation has been updated  HMYHWXD5TC
+recrod already exists...will update record HMX5R2Y3S8
+reservation has been updated  HMX5R2Y3S8
+recrod already exists...will update record HMTW9HPKEN
+reservation has been updated  HMTW9HPKEN
+Traceback (most recent call last):
+  File "/home/moe/Desktop/airbnbSfSync/hannah.py", line 367, in <module>
+    addData = sfConnection(scraper1)
+  File "/home/moe/Desktop/airbnbSfSync/hannah.py", line 253, in __init__
+    self.loopToPush()
+  File "/home/moe/Desktop/airbnbSfSync/hannah.py", line 308, in loopToPush
+    self.grabUnitSfId(reservation)
+  File "/home/moe/Desktop/airbnbSfSync/hannah.py", line 279, in grabUnitSfId
+    unitSfId = self.sf.Unit__c.get_by_custom_id('Name',reservation['Unit__c'])["Id"]
+  File "/home/moe/Desktop/airbnbSfSync/venv/lib/python3.5/site-packages/simple_salesforce/api.py", line 649, in get_by_custom_id
+    method='GET', url=custom_url, headers=headers
+  File "/home/moe/Desktop/airbnbSfSync/venv/lib/python3.5/site-packages/simple_salesforce/api.py", line 794, in _call_salesforce
+    exception_handler(result, self.name)
+  File "/home/moe/Desktop/airbnbSfSync/venv/lib/python3.5/site-packages/simple_salesforce/util.py", line 61, in exception_handler
+    raise exc_cls(result.url, result.status_code, name, response_content)
+simple_salesforce.exceptions.SalesforceResourceNotFound: Resource Unit__c Not Found. Response content: [{'errorCode': 'NOT_FOUND', 'message': 'The requested resource does not exist'}]
